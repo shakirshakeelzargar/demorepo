@@ -1,6 +1,6 @@
 def func():
     return "This function was called"
-def func2222():
+def funcNew():
     return "This function2 was called"
 
 
